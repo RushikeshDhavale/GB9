@@ -1,0 +1,186 @@
+2022-08-07 13:15:08,812 [main] INFO Guru99 - Entered Username
+2022-08-07 13:15:08,877 [main] INFO Guru99 - Entered password
+2022-08-07 13:15:56,342 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:15:56,365 [main] INFO Guru99 - Successfully Login
+2022-08-07 13:15:56,365 [main] INFO Guru99 - Login test passed
+2022-08-07 13:17:02,528 [main] INFO Guru99 - Entered Username
+2022-08-07 13:17:02,699 [main] INFO Guru99 - Entered password
+2022-08-07 13:17:26,354 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:17:26,382 [main] INFO Guru99 - Successfully Login
+2022-08-07 13:17:26,383 [main] INFO Guru99 - Login test passed
+2022-08-07 13:19:58,883 [main] INFO Guru99 - Entered Username
+2022-08-07 13:19:59,035 [main] INFO Guru99 - Entered password
+2022-08-07 13:19:59,596 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:22:31,990 [main] INFO Guru99 - Entered Username
+2022-08-07 13:22:32,123 [main] INFO Guru99 - Entered password
+2022-08-07 13:22:32,762 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:23:40,072 [main] INFO Guru99 - Entered Username
+2022-08-07 13:23:40,221 [main] INFO Guru99 - Entered password
+2022-08-07 13:23:40,771 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:26:48,215 [main] INFO Guru99 - Url is opened
+2022-08-07 13:26:48,379 [main] INFO Guru99 - Entered Username
+2022-08-07 13:26:48,564 [main] INFO Guru99 - Entered Password
+2022-08-07 13:26:49,189 [main] INFO Guru99 - Clicked on submit
+2022-08-07 13:32:48,943 [main] INFO Guru99 - Entered Username
+2022-08-07 13:32:49,147 [main] INFO Guru99 - Entered password
+2022-08-07 13:32:49,707 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:34:26,064 [main] INFO Guru99 - Entered Username
+2022-08-07 13:34:26,214 [main] INFO Guru99 - Entered password
+2022-08-07 13:34:26,816 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:34:39,155 [main] INFO Guru99 - Login test failed
+2022-08-07 13:41:24,312 [main] INFO Guru99 - Entered Username
+2022-08-07 13:41:24,477 [main] INFO Guru99 - Entered password
+2022-08-07 13:41:47,999 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:51:25,568 [main] INFO Guru99 - Entered Username
+2022-08-07 13:51:25,801 [main] INFO Guru99 - Entered password
+2022-08-07 13:51:49,946 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:57:09,733 [main] INFO Guru99 - Entered Username
+2022-08-07 13:57:09,948 [main] INFO Guru99 - Entered password
+2022-08-07 13:57:33,439 [main] INFO Guru99 - Clicked on Login
+2022-08-07 13:57:33,492 [main] INFO Guru99 - Successfully Login
+2022-08-07 13:57:33,492 [main] INFO Guru99 - Login test passed
+2022-08-07 14:00:31,525 [main] INFO Guru99 - Entered Username
+2022-08-07 14:00:34,758 [main] INFO Guru99 - Entered password
+2022-08-07 14:00:35,616 [main] INFO Guru99 - Clicked on Login
+2022-08-07 14:00:38,636 [main] INFO Guru99 - Entered incorrect username or password
+2022-08-07 14:00:38,636 [main] INFO Guru99 - Login test failed
+2022-08-07 14:16:14,761 [main] INFO Guru99 - Entered Username
+2022-08-07 14:16:17,948 [main] INFO Guru99 - Entered password
+2022-08-07 14:16:42,187 [main] INFO Guru99 - Clicked on Login
+2022-08-07 14:20:28,575 [main] INFO Guru99 - Entered Username
+2022-08-07 14:20:31,803 [main] INFO Guru99 - Entered password
+2022-08-07 14:20:55,824 [main] INFO Guru99 - Clicked on Login
+2022-08-07 15:26:04,932 [main] INFO Guru99 - Entered Username
+2022-08-07 15:26:08,278 [main] INFO Guru99 - Entered password
+2022-08-07 15:26:33,242 [main] INFO Guru99 - Clicked on Login
+2022-08-07 15:26:36,300 [main] INFO Guru99 - Successfully Login
+2022-08-07 15:26:36,302 [main] INFO Guru99 - Login test passed
+2022-08-07 15:31:46,623 [main] INFO Guru99 - Entered Username
+2022-08-07 15:31:49,807 [main] INFO Guru99 - Entered password
+2022-08-07 15:31:52,979 [main] INFO Guru99 - Clicked on Login
+2022-08-07 15:31:56,016 [main] INFO Guru99 - Successfully Login
+2022-08-07 15:31:56,017 [main] INFO Guru99 - Login test passed
+2022-08-08 22:04:51,522 [main] INFO Guru99 - Entered Username
+2022-08-08 22:04:54,725 [main] INFO Guru99 - Entered password
+2022-08-08 22:05:19,016 [main] INFO Guru99 - Clicked on Login
+2022-08-08 22:08:22,682 [main] INFO Guru99 - Entered Username
+2022-08-08 22:08:25,995 [main] INFO Guru99 - Entered password
+2022-08-08 22:08:50,751 [main] INFO Guru99 - Clicked on Login
+2022-08-08 22:16:24,652 [main] INFO Guru99 - Entered Username
+2022-08-08 22:16:27,823 [main] INFO Guru99 - Entered password
+2022-08-08 22:16:48,180 [main] INFO Guru99 - Clicked on Login
+2022-08-08 22:20:47,214 [main] INFO Guru99 - Entered Username
+2022-08-08 22:20:50,440 [main] INFO Guru99 - Entered password
+2022-08-08 22:21:14,804 [main] INFO Guru99 - Clicked on Login
+2022-08-08 22:22:32,166 [main] INFO Guru99 - Entered Username
+2022-08-08 22:22:35,385 [main] INFO Guru99 - Entered password
+2022-08-08 22:22:55,925 [main] INFO Guru99 - Clicked on Login
+2022-08-08 22:22:56,171 [main] INFO Guru99 - Clicked on New Customer
+2022-08-08 22:25:54,670 [main] INFO Guru99 - Entered Username
+2022-08-08 22:25:57,834 [main] INFO Guru99 - Entered password
+2022-08-08 22:26:22,317 [main] INFO Guru99 - Clicked on Login
+2022-08-08 22:34:32,560 [main] INFO Guru99 - Entered Username
+2022-08-08 22:34:34,767 [main] INFO Guru99 - Entered password
+2022-08-08 22:34:58,453 [main] INFO Guru99 - Clicked on Login
+2022-08-08 22:34:59,464 [main] INFO Guru99 - Switching to page new customer
+2022-08-08 22:34:59,480 [main] INFO Guru99 - Switch to page new customer
+2022-08-08 22:34:59,620 [main] INFO Guru99 - true
+2022-08-08 22:34:59,811 [main] INFO Guru99 - Clicked on new customer
+2022-08-08 22:36:24,167 [main] INFO Guru99 - Entered Username
+2022-08-08 22:36:26,386 [main] INFO Guru99 - Entered password
+2022-08-08 22:36:50,680 [main] INFO Guru99 - Clicked on Login
+2022-08-08 22:36:51,689 [main] INFO Guru99 - Switching to page new customer
+2022-08-08 22:36:51,931 [main] INFO Guru99 - Clicked on new customer
+2022-08-08 22:51:22,227 [main] INFO Guru99 - Entered Username
+2022-08-08 22:51:24,386 [main] INFO Guru99 - Entered password
+2022-08-08 22:51:49,887 [main] INFO Guru99 - Clicked on Login
+2022-08-08 22:51:50,899 [main] INFO Guru99 - Switching to page new customer
+2022-08-08 22:51:51,069 [main] INFO Guru99 - Clicked on new customer
+2022-08-08 22:51:53,290 [main] INFO Guru99 - switched to frame1
+2022-08-08 22:51:55,467 [main] INFO Guru99 - switched to frame2
+2022-08-08 22:51:56,208 [main] INFO Guru99 - ad closed
+2022-08-08 22:52:03,965 [main] INFO Guru99 - Reach to New Customer Page
+2022-08-08 22:52:06,976 [main] INFO Guru99 - providing customer details....
+2022-08-08 22:52:23,775 [main] INFO Guru99 - Customer created Successfully
+2022-08-08 22:52:24,125 [main] INFO Guru99 - Taken Screenshot of Customer
+2022-08-08 22:52:24,375 [main] INFO Guru99 - Sc by Second Method
+2022-08-08 23:31:15,743 [main] INFO Guru99 - Entered Username
+2022-08-08 23:31:17,947 [main] INFO Guru99 - Entered password
+2022-08-08 23:31:42,517 [main] INFO Guru99 - Clicked on Login
+2022-08-08 23:31:43,518 [main] INFO Guru99 - Switching to page new customer
+2022-08-08 23:31:43,829 [main] INFO Guru99 - Clicked on new customer
+2022-08-08 23:31:46,131 [main] INFO Guru99 - switched to frame1
+2022-08-08 23:31:48,374 [main] INFO Guru99 - switched to frame2
+2022-08-08 23:31:49,199 [main] INFO Guru99 - ad closed
+2022-08-08 23:31:51,672 [main] INFO Guru99 - Reach to New Customer Page
+2022-08-08 23:31:54,688 [main] INFO Guru99 - providing customer details....
+2022-08-08 23:34:06,196 [main] INFO Guru99 - Entered Username
+2022-08-08 23:34:08,379 [main] INFO Guru99 - Entered password
+2022-08-08 23:34:28,116 [main] INFO Guru99 - Clicked on Login
+2022-08-08 23:34:29,121 [main] INFO Guru99 - Switching to page new customer
+2022-08-08 23:34:29,425 [main] INFO Guru99 - Clicked on new customer
+2022-08-08 23:34:31,807 [main] INFO Guru99 - switched to frame1
+2022-08-08 23:34:34,088 [main] INFO Guru99 - switched to frame2
+2022-08-08 23:34:34,974 [main] INFO Guru99 - ad closed
+2022-08-08 23:34:37,935 [main] INFO Guru99 - Reach to New Customer Page
+2022-08-08 23:34:40,937 [main] INFO Guru99 - providing customer details....
+2022-08-08 23:36:13,419 [main] INFO Guru99 - Entered Username
+2022-08-08 23:36:15,570 [main] INFO Guru99 - Entered password
+2022-08-08 23:36:40,054 [main] INFO Guru99 - Clicked on Login
+2022-08-08 23:36:41,058 [main] INFO Guru99 - Switching to page new customer
+2022-08-08 23:36:41,324 [main] INFO Guru99 - Clicked on new customer
+2022-08-08 23:36:43,745 [main] INFO Guru99 - switched to frame1
+2022-08-08 23:36:46,089 [main] INFO Guru99 - switched to frame2
+2022-08-09 00:04:36,865 [main] INFO Guru99 - Entered Username
+2022-08-09 00:04:40,288 [main] INFO Guru99 - Entered password
+2022-08-09 00:05:12,222 [main] INFO Guru99 - Clicked on Login
+2022-08-09 00:05:13,242 [main] INFO Guru99 - Switching to page new customer
+2022-08-09 00:05:16,008 [main] INFO Guru99 - Clicked on new customer
+2022-08-09 00:05:19,122 [main] INFO Guru99 - switched to frame1
+2022-08-09 00:05:22,501 [main] INFO Guru99 - switched to frame2
+2022-08-09 00:05:25,409 [main] INFO Guru99 - frame2 ad closed
+2022-08-09 00:05:33,823 [main] INFO Guru99 - Reach to New Customer Page
+2022-08-09 00:05:36,829 [main] INFO Guru99 - providing customer details....
+2022-08-09 00:10:46,250 [main] INFO Guru99 - Entered Username
+2022-08-09 00:10:49,213 [main] INFO Guru99 - Entered password
+2022-08-09 00:12:19,714 [main] INFO Guru99 - Clicked on Login
+2022-08-09 00:12:21,036 [main] INFO Guru99 - Switching to page new customer
+2022-08-09 00:12:29,119 [main] INFO Guru99 - Clicked on new customer
+2022-08-09 00:12:54,827 [main] INFO Guru99 - switched to frame1
+2022-08-09 00:12:59,167 [main] INFO Guru99 - switched to frame2
+2022-08-09 00:13:10,954 [main] INFO Guru99 - frame2 ad closed
+2022-08-09 00:13:46,595 [main] INFO Guru99 - Reach to New Customer Page
+2022-08-09 00:13:49,620 [main] INFO Guru99 - providing customer details....
+2022-08-09 00:18:58,704 [main] INFO Guru99 - Entered Username
+2022-08-09 00:19:00,858 [main] INFO Guru99 - Entered password
+2022-08-09 00:19:25,949 [main] INFO Guru99 - Clicked on Login
+2022-08-09 00:19:26,955 [main] INFO Guru99 - Switching to page new customer
+2022-08-09 00:19:27,238 [main] INFO Guru99 - Clicked on new customer
+2022-08-09 00:19:29,578 [main] INFO Guru99 - switched to frame1
+2022-08-09 00:19:32,116 [main] INFO Guru99 - switched to frame2
+2022-08-09 00:19:32,779 [main] INFO Guru99 - frame2 ad closed
+2022-08-09 00:19:36,307 [main] INFO Guru99 - Reach to New Customer Page
+2022-08-09 00:19:39,310 [main] INFO Guru99 - providing customer details....
+2022-08-09 21:35:02,926 [main] INFO Guru99 - Entered Username
+2022-08-09 21:35:05,407 [main] INFO Guru99 - Entered password
+2022-08-09 21:35:29,617 [main] INFO Guru99 - Clicked on Login
+2022-08-09 21:35:30,632 [main] INFO Guru99 - Switching to page new customer
+2022-08-09 21:35:30,823 [main] INFO Guru99 - Clicked on new customer
+2022-08-09 21:35:33,085 [main] INFO Guru99 - switched to frame1
+2022-08-09 21:35:35,322 [main] INFO Guru99 - switched to frame2
+2022-08-09 21:35:36,018 [main] INFO Guru99 - frame2 ad closed
+2022-08-09 21:35:46,346 [main] INFO Guru99 - Reach to New Customer Page
+2022-08-09 21:35:49,362 [main] INFO Guru99 - providing customer details....
+2022-08-09 21:55:51,844 [main] INFO Guru99 - Entered Username
+2022-08-09 21:55:54,024 [main] INFO Guru99 - Entered password
+2022-08-09 21:56:19,990 [main] INFO Guru99 - Clicked on Login
+2022-08-09 21:56:21,006 [main] INFO Guru99 - Switching to page new customer
+2022-08-09 21:56:21,324 [main] INFO Guru99 - Clicked on new customer
+2022-08-09 21:56:23,615 [main] INFO Guru99 - switched to frame1
+2022-08-09 21:56:26,220 [main] INFO Guru99 - switched to frame2
+2022-08-09 21:56:27,044 [main] INFO Guru99 - frame2 ad closed
+2022-08-09 21:56:30,840 [main] INFO Guru99 - Reach to New Customer Page
+2022-08-09 21:56:33,850 [main] INFO Guru99 - providing customer details....
+2022-08-09 21:56:56,636 [main] INFO Guru99 - Customer created Successfully
+2022-08-09 21:56:56,992 [main] INFO Guru99 - Taken Screenshot of Customer
+2022-08-09 21:56:57,312 [main] INFO Guru99 - Sc by Second Method
